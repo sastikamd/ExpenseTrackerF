@@ -11,8 +11,8 @@ const Header = ({ totalExpenses, totalAmount }) => {
         React.createElement(
           'div',
           null,
-          React.createElement('h1', { className: 'text-2xl font-bold text-gray-900' }, 'Smart Expense Tracker'),
-          React.createElement('p', { className: 'text-sm text-gray-600' }, 'Track and manage your daily expenses')
+          React.createElement('h1', { className: 'text-2xl font-bold text-gray-900' }, "Sastika's Expense Tracker"),
+          React.createElement('p', { className: 'text-sm text-gray-600' }, 'Track and manage daily expenses')
         ),
         React.createElement(
           'div',

@@ -1,4 +1,4 @@
-# Smart Expense Tracker - Indian Rupees Version
+# smart Expense Tracker - Indian Rupees Version
 
 A comprehensive expense tracking application built with React JS, now featuring **Indian Rupees (₹)** as the currency. The app is organized into modular components for better maintainability and code organization.
 
